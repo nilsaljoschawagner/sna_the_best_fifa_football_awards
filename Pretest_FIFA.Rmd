@@ -1,0 +1,152 @@
+---
+title: "SNA Pretest The Best FIFA Football Awards"
+author: "Sandro Pascucci, Nils Wagner"
+date: "Wintersemester 25/26"
+output: html_document
+---
+
+# 1) Thema
+# Antwort: Untersuchungsgegenstand ist das Abstimmungsverhalten bei den „The Best FIFA Football Awards“. Im Fokus steht die Annahme, dass die Stimmabgabe nicht ausschließlich leistungsorientiert erfolgt, sondern durch soziale Nähe beeinflusst wird. Als Nähe-Indikatoren gelten insbesondere gemeinsame Nationalität, Vereins- oder Liga¬zugehörigkeit sowie institutionelle Rollen (Trainer, Kapitäne, Medienvertreter).
+
+
+# 2)	Literaturübersicht: Forschungsstand / vergleichbare Studien (mindestens 5 ähnlich/vergleichbar)
+# Antwort:
+#Biases and Strategic Behaviour in Performance Evaluation: The Case of the FIFA’s best soccer player award - Tom Coupe, Olivier Gergaud, Abdul Noury
+-> DOI https://doi.org/10.1111/obes.12201
+#Cultural similarity and impartiality on voting bias: The case of FIFA’s World’s Best Male Football Player Award - Michael R. Johnson, Ian P. McCarthy
+-> DOI https://doi.org/10.1371/journal.pone.0270546
+#Biases in elections with well-informed voters: Evidence from public voting for football awards - Nolan Kopkin, Andrew Roberts
+-> DOI https://doi.org/10.1111/ssqu.13216Digital
+#Homegrown Heroes: Shared Group Membership Is a Basis for Recognizing Outstanding Sports Performance - Niklas K. Steffens, Charlie R. Crimston, Charlie R. Pittaway, S. Alexander Haslam, Matthew J. Slater, Katrien Fransen
+-> DOI https://onlinelibrary.wiley.com/doi/10.1111/jasp.13095
+
+
+# 3) Fragestellung/Arbeitshypothese
+# Antwort: Inwieweit lässt sich das Abstimmungsverhalten bei den The Best FIFA Football Awards durch soziale Nähebeziehungen erklären, und deuten die resultierenden Netzwerkstrukturen darauf hin, dass gruppenbezogene Präferenzen systematisch über eine rein leistungsorientierte Bewertung hinauswirken?
+
+#H1: Stimmen werden überzufällig häufig an Nominees mit gleicher Nationalität vergeben (Nationalitäts-Homophilie).
+#H2: Vereins- oder Liganähe erhöht die Wahrscheinlichkeit einer Stimmabgabe.
+#H3: Kapitäne weisen stärkere Näheeffekte auf als Medienvertreter; Trainer liegen dazwischen.
+#H4: Das Abstimmungsverhalten bildet Gruppen, in denen sich Wähler mit ähnlichen sozialen Merkmalen – insbesondere gleicher Nationalität oder regionaler Zugehörigkeit – ähneln und sich dadurch klar voneinander abgrenzbare Cluster im Netzwerk ergeben.
+
+
+# 4) Datenzugang klären, Codebuch entwickeln
+# Antwort: https://www.fifa.com/en/the-best-fifa-football-awards/2025/articles/winners-voting-breakdown-coach-captain-media
+
+
+# 5) Beispieldaten (Edge- und Nodelist auf github)
+# Antwort: hier im Dokument
+
+
+# 6) Mögliche Probleme und Herausforderungen
+#Antwort:
+#Trennung von Leistung und Nähe: Leistungsstärke und soziale Nähe sind empirisch stark verschränkt; fehlende Kontrollen können Bias überschätzen.
+#Ungleiche Datenlagen: Individuelle Fan-Stimmen fehlen, wodurch Jurygruppen unterschiedlich tief analysierbar sind.
+#Datenbereinigung: Namensvarianten, Länderwechsel und Mehrfachrollen erfordern sauberes Matching.
+#Netzwerkkonstruktion: Projektionen bipartiter Netzwerke können künstliche Dichte erzeugen; methodische Entscheidungen müssen transparent begründet werden.
+#Missing Data: Nicht alle Wahlberechtigten stimmen in jedem Jahr ab; systematische Ausfälle sind möglich.
+
+
+
+
+
+
+# Setup und Lernziele
+
+**Quellen:** [GitHub](https://github.com/nilsaljoschawagner/sna_the_best_fifa_football_awards) 
+[Codebuch](https://github.com/nilsaljoschawagner/sna_the_best_fifa_football_awards/blob/main/Codebuch%20Pretest.pdf)
+
+## Laden der Programmbibliotheken
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# siehe: https://github.com/romymarlene/Natio-Nagelsmann/tree/main
+library(igraph)
+library(tidygraph)
+library(ggraph)
+library(tidyverse)
+```
+
+# Netzwerk einlesen
+
+```{r Netzwerk einlesen, include=FALSE}
+#Einlesen der Edgelist aus github link:
+
+el <- read.csv("https://raw.githubusercontent.com/nilsaljoschawagner/sna_the_best_fifa_football_awards/refs/heads/main/Edgelist.csv", header=T, as.is=T, sep = ",")
+
+nl <- read.csv("https://raw.githubusercontent.com/nilsaljoschawagner/sna_the_best_fifa_football_awards/refs/heads/main/Nodelist_NEU.csv", header=T, as.is=T, sep = ",")
+
+# wandelt die Edgelist als Matrix um.
+edgematrix <-as.matrix(el)
+# erstellt ein igraph-objekt aus der Fusion von Edge- und Nodelist
+fifa <- graph_from_data_frame(d=edgematrix, vertices=nl,
+directed=TRUE)
+fifa
+
+# erstellt das Netzwerk als tidygraph-Objekt
+fifa <- tbl_graph(nodes = nl, edges = el, directed = TRUE)
+
+# Netzwerk aufrufen
+fifa
+
+# Namen aus der Edge-Liste extrahieren
+edges <- unique(c(el$from, el$to))
+# Namen aus der Node-Liste
+nodes <- nl$id  # ggf. Spaltenname anpassen!
+# welche Knoten fehlen?
+missing <- setdiff(edges, nodes)
+missing
+
+```
+
+# Visualisierung 
+
+```{r Visualisierung Fifa, fig.height=20, fig.width=30}
+
+# Visualisierung mit Farben und Gewichtung
+plot(
+  fifa,
+  asp = 0,
+  vertex.size = 5,
+  edge.width = 1, #sorgt dafür, dass man die Kanten sieht
+  edge.arrow.size = .2,
+  edge.arrow.color = "black",
+  vertex.label = V(fifa)$id,
+  layout = layout_nicely, # macht das Netzwerk schön
+  main = "Gesamtnetzwerk Fifa 2025",
+  edge.width = E(fifa)$width/3
+)
+```
+# Visualisierung 
+
+```{r Visualisierung Fifa, fig.height=15, fig.width=20}
+
+# Visualisierung mit Farben und Gewichtung
+plot(
+  fifa,
+  asp = 0,
+  vertex.size = 5,
+  layout = layout_nicely, # macht das Netzwerk schön
+  main = "Gesamtnetzwerk Fifa 2025",
+  edge.width = E(fifa)$width/3
+)
+
+```
+
+```{r}
+# igraph-Objekt
+fifa_igraph <- graph_from_data_frame(d = el, vertices = nl, directed = TRUE)
+
+plot(
+  fifa_igraph,
+  asp = 0,
+  vertex.size = 5,
+  edge.arrow.size = .2,
+  edge.arrow.color = "black",
+  vertex.label = V(fifa_igraph)$id,
+  layout = layout_nicely,
+  main = "Gesamtnetzwerk Fifa 2025",
+  edge.width = E(fifa_igraph)$width/3
+)
+```
+
