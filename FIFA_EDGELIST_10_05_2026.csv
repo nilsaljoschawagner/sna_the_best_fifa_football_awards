@@ -1,0 +1,1234 @@
+from,to,vote,relationship,year
+Unai Simon Mendibil,Lamine Yamal,5,1,2025
+Unai Simon Mendibil,Pedri,3,1,2025
+Unai Simon Mendibil,Nuno Mendes,1,4,2025
+Alvaro Morata Martin,Rodri,5,1,2023
+Alvaro Morata Martin,Lionel Messi,3,4,2023
+Alvaro Morata Martin,Kylian Mbappé,1,4,2023
+Alvaro Morata Martin,Dani Carvajal,5,1,2024
+Alvaro Morata Martin,Rodri,3,1,2024
+Alvaro Morata Martin,Lamine Yamal,1,1,2024
+Luis De La Fuente Castillo,Pedri,5,1,2025
+Luis De La Fuente Castillo,Lamine Yamal,3,1,2025
+Luis De La Fuente Castillo,Kylian Mbappé,1,4,2025
+Luis De La Fuente Castillo,Rodri,5,1,2023
+Luis De La Fuente Castillo,Erling Haaland,3,4,2023
+Luis De La Fuente Castillo,Lionel Messi,1,4,2023
+Luis De La Fuente Castillo,Dani Carvajal,5,1,2024
+Luis De La Fuente Castillo,Rodri,3,1,2024
+Luis De La Fuente Castillo,Lamine Yamal,1,1,2024
+Juan Ignacio Gallardo,Ousmane Dembélé,5,4,2025
+Juan Ignacio Gallardo,Lamine Yamal,3,1,2025
+Juan Ignacio Gallardo,Kylian Mbappé,1,4,2025
+Juan Ignacio Gallardo,Rodri,5,1,2023
+Juan Ignacio Gallardo,Erling Haaland,3,4,2023
+Juan Ignacio Gallardo,Lionel Messi,1,4,2023
+Juan Ignacio Gallardo,Dani Carvajal,5,1,2024
+Juan Ignacio Gallardo,Vinícius Jr,3,4,2024
+Juan Ignacio Gallardo,Toni Kroos,1,4,2024
+Lionel Messi,Ousmane Dembélé,5,4,2025
+Lionel Messi,Kylian Mbappé,3,4,2025
+Lionel Messi,Lamine Yamal,1,4,2025
+Lionel Messi,Erling Haaland,5,4,2023
+Lionel Messi,Kylian Mbappé,3,2,2023
+Lionel Messi,Julián Álvarez,1,1,2023
+Lionel Messi,Lamine Yamal,5,4,2024
+Lionel Messi,Kylian Mbappé,3,4,2024
+Lionel Messi,Vinícius Jr,1,4,2024
+Lionel Scaloni,Kylian Mbappé,5,4,2025
+Lionel Scaloni,Pedri,3,4,2025
+Lionel Scaloni,Lamine Yamal,1,4,2025
+Lionel Scaloni,Lionel Messi,5,1,2023
+Lionel Scaloni,Julián Álvarez,3,1,2023
+Lionel Scaloni,Kylian Mbappé,1,4,2023
+Lionel Scaloni,Lionel Messi,5,1,2024
+Lionel Scaloni,Rodri,3,4,2024
+Lionel Scaloni,Jude Bellingham,1,4,2024
+Claudio Mauri,Lamine Yamal,5,4,2025
+Claudio Mauri,Achraf Hakimi,3,4,2025
+Claudio Mauri,Cole Palmer,1,4,2025
+Claudio Mauri,İlkay Gündoğan,5,4,2023
+Claudio Mauri,Erling Haaland,3,4,2023
+Claudio Mauri,Lionel Messi,1,1,2023
+Claudio Mauri,Rodri,5,4,2024
+Claudio Mauri,Lamine Yamal,3,4,2024
+Claudio Mauri,Toni Kroos,1,4,2024
+Didier Deschamps,Ousmane Dembélé,5,1,2025
+Didier Deschamps,Kylian Mbappé,3,1,2025
+Didier Deschamps,Achraf Hakimi,1,4,2025
+Didier Deschamps,Kylian Mbappé,5,1,2023
+Didier Deschamps,Erling Haaland,3,4,2023
+Didier Deschamps,Lionel Messi,1,4,2023
+Didier Deschamps,Vinícius Jr,5,4,2024
+Didier Deschamps,Kylian Mbappé,3,1,2024
+Didier Deschamps,Rodri,1,4,2024
+Cyrille De La Morinerie,Ousmane Dembélé,5,1,2025
+Cyrille De La Morinerie,Lamine Yamal,3,4,2025
+Cyrille De La Morinerie,Vitinha,1,4,2025
+Cyrille De La Morinerie,Erling Haaland,5,4,2023
+Cyrille De La Morinerie,Kevin De Bruyne,3,4,2023
+Cyrille De La Morinerie,Kylian Mbappé,1,1,2023
+Cyrille De La Morinerie,Vinícius Jr,5,4,2024
+Cyrille De La Morinerie,Rodri,3,4,2024
+Cyrille De La Morinerie,Jude Bellingham,1,4,2024
+Kylian Mbappé,Lionel Messi,5,4,2023
+Kylian Mbappé,Erling Haaland,3,4,2023
+Kylian Mbappé,Kevin De Bruyne,1,4,2023
+Harry Kane,Ousmane Dembélé,5,4,2025
+Harry Kane,Vitinha,3,4,2025
+Harry Kane,Mohamed Salah,1,4,2025
+Harry Kane,Lionel Messi,5,4,2023
+Harry Kane,Erling Haaland,3,4,2023
+Harry Kane,Bernardo Silva,1,4,2023
+Harry Kane,Rodri,5,4,2024
+Harry Kane,Jude Bellingham,3,1,2024
+Harry Kane,Vinícius Jr,1,4,2024
+Thomas Tuchel,Harry Kane,5,1,2025
+Thomas Tuchel,Cole Palmer,3,1,2025
+Thomas Tuchel,Ousmane Dembélé,1,4,2025
+Lee Carsley,Jude Bellingham,5,1,2024
+Lee Carsley,Rodri,3,4,2024
+Lee Carsley,Lamine Yamal,1,4,2024
+Gareth Southgate,Erling Haaland,5,4,2023
+Gareth Southgate,Rodri,3,4,2023
+Gareth Southgate,Bernardo Silva,1,4,2023
+John Cross,Ousmane Dembélé,5,4,2025
+John Cross,Lamine Yamal,3,4,2025
+John Cross,Vitinha,1,4,2025
+John Cross,Erling Haaland,5,4,2023
+John Cross,Rodri,3,4,2023
+John Cross,Lionel Messi,1,4,2023
+John Cross,Rodri,5,4,2024
+John Cross,Vinícius Jr,3,4,2024
+John Cross,Jude Bellingham,1,1,2024
+Marcos Aoás Corrêa,Ousmane Dembélé,5,2,2025
+Marcos Aoás Corrêa,Raphinha,3,1,2025
+Marcos Aoás Corrêa,Achraf Hakimi,1,2,2025
+Carlo Ancelotti,Ousmane Dembélé,5,4,2025
+Carlo Ancelotti,Raphinha,3,1,2025
+Carlo Ancelotti,Kylian Mbappé,1,4,2025
+Carlos Eduardo Mansur,Lamine Yamal,5,4,2025
+Carlos Eduardo Mansur,Raphinha,3,1,2025
+Carlos Eduardo Mansur,Ousmane Dembélé,1,4,2025
+Carlos Eduardo Mansur,Vinícius Jr,5,1,2024
+Carlos Eduardo Mansur,Jude Bellingham,3,4,2024
+Carlos Eduardo Mansur,Rodri,1,4,2024
+Danilo Luiz Da Silva,Vinícius Jr,5,1,2024
+Danilo Luiz Da Silva,Jude Bellingham,3,4,2024
+Danilo Luiz Da Silva,Lamine Yamal,1,4,2024
+Dorival Silvestre Júnior,Vinícius Jr,5,1,2024
+Dorival Silvestre Júnior,Jude Bellingham,3,4,2024
+Dorival Silvestre Júnior,Lamine Yamal,1,4,2024
+Carlos Casemiro,Erling Haaland,5,4,2023
+Carlos Casemiro,Lionel Messi,3,4,2023
+Carlos Casemiro,Kylian Mbappé,1,4,2023
+Fernando Diniz,Lionel Messi,5,4,2023
+Fernando Diniz,Kevin De Bruyne,3,4,2023
+Fernando Diniz,Erling Haaland,1,4,2023
+Martín Fernandez,Erling Haaland,5,4,2023
+Martín Fernandez,Rodri,3,4,2023
+Martín Fernandez,Bernardo Silva,1,4,2023
+Bernardo Silva,Vitinha,5,1,2025
+Bernardo Silva,Nuno Mendes,3,1,2025
+Bernardo Silva,Ousmane Dembélé,1,4,2025
+Bernardo Silva,Rodri,5,2,2024
+Bernardo Silva,Vinícius Jr,3,4,2024
+Bernardo Silva,Erling Haaland,1,4,2024
+Roberto Martinez,Nuno Mendes,5,1,2025
+Roberto Martinez,Vitinha,3,1,2025
+Roberto Martinez,Lamine Yamal,1,4,2025
+Roberto Martinez,Marcelo Brozović,5,4,2023
+Roberto Martinez,Bernardo Silva,3,1,2023
+Roberto Martinez,Lionel Messi,1,4,2023
+Roberto Martinez,Dani Carvajal,5,4,2024
+Roberto Martinez,Lamine Yamal,3,4,2024
+Roberto Martinez,Vinícius Jr,1,4,2024
+Vítor Serpa,Ousmane Dembélé,5,4,2025
+Vítor Serpa,Pedri,3,4,2025
+Vítor Serpa,Nuno Mendes,1,1,2025
+Vítor Serpa,Erling Haaland,5,4,2023
+Vítor Serpa,Kevin De Bruyne,3,4,2023
+Vítor Serpa,Bernardo Silva,1,1,2023
+Vítor Serpa,Rodri,5,4,2024
+Vítor Serpa,Lamine Yamal,3,4,2024
+Vítor Serpa,Vinícius Jr,1,4,2024
+Kepler Ferreira,Bernardo Silva,5,1,2023
+Kepler Ferreira,Erling Haaland,3,4,2023
+Kepler Ferreira,Victor Osimhen,1,4,2023
+Virgil Van Dijk,Mohamed Salah,5,2,2025
+Virgil Van Dijk,Ousmane Dembélé,3,4,2025
+Virgil Van Dijk,Nuno Mendes,1,4,2025
+Virgil Van Dijk,Lionel Messi,5,4,2023
+Virgil Van Dijk,Erling Haaland,3,4,2023
+Virgil Van Dijk,Kevin De Bruyne,1,4,2023
+Virgil Van Dijk,Vinícius Jr,5,4,2024
+Virgil Van Dijk,Erling Haaland,3,4,2024
+Virgil Van Dijk,Rodri,1,4,2024
+Ronald Koeman,Ousmane Dembélé,5,4,2025
+Ronald Koeman,Vitinha,3,4,2025
+Ronald Koeman,Pedri,1,4,2025
+Ronald Koeman,Erling Haaland,5,4,2023
+Ronald Koeman,Kylian Mbappé,3,4,2023
+Ronald Koeman,Lionel Messi,1,4,2023
+Ronald Koeman,Rodri,5,4,2024
+Ronald Koeman,Vinícius Jr,3,4,2024
+Ronald Koeman,Jude Bellingham,1,4,2024
+Jaap De Groot,Ousmane Dembélé,5,4,2025
+Jaap De Groot,Lamine Yamal,3,4,2025
+Jaap De Groot,Mohamed Salah,1,4,2025
+Jaap De Groot,Erling Haaland,5,4,2023
+Jaap De Groot,Lionel Messi,3,4,2023
+Jaap De Groot,Rodri,1,4,2023
+Jaap De Groot,Rodri,5,4,2024
+Jaap De Groot,Vinícius Jr,3,4,2024
+Jaap De Groot,Lionel Messi,1,4,2024
+Youri Tielemans,Ousmane Dembélé,5,4,2025
+Youri Tielemans,Lamine Yamal,3,4,2025
+Youri Tielemans,Vitinha,1,4,2025
+Rudi Garcia,Achraf Hakimi,5,4,2025
+Rudi Garcia,Kylian Mbappé,3,4,2025
+Rudi Garcia,Vitinha,1,4,2025
+Kristof Terreur,Lamine Yamal,5,4,2025
+Kristof Terreur,Ousmane Dembélé,3,4,2025
+Kristof Terreur,Vitinha,1,4,2025
+Kristof Terreur,Erling Haaland,5,4,2023
+Kristof Terreur,Kylian Mbappé,3,4,2023
+Kristof Terreur,Kevin De Bruyne,1,1,2023
+Kristof Terreur,Rodri,5,4,2024
+Kristof Terreur,Vinícius Jr,3,4,2024
+Kristof Terreur,Jude Bellingham,1,4,2024
+Domenico Tedesco,Kevin De Bruyne,5,1,2023
+Domenico Tedesco,Kylian Mbappé,3,4,2023
+Domenico Tedesco,Erling Haaland,1,4,2023
+Domenico Tedesco,Lamine Yamal,5,4,2024
+Domenico Tedesco,Florian Wirtz,3,4,2024
+Domenico Tedesco,Erling Haaland,1,4,2024
+Romelu Lukaku Bolingoli,Lionel Messi,5,4,2023
+Romelu Lukaku Bolingoli,Kylian Mbappé,3,4,2023
+Romelu Lukaku Bolingoli,Erling Haaland,1,4,2023
+Joshua Kimmich,Vitinha,5,4,2025
+Joshua Kimmich,Harry Kane,3,2,2025
+Joshua Kimmich,Pedri,1,4,2025
+Joshua Kimmich,Rodri,5,4,2024
+Joshua Kimmich,Toni Kroos,3,1,2024
+Joshua Kimmich,Florian Wirtz,1,1,2024
+Julian Nagelsmann,Vitinha,5,4,2025
+Julian Nagelsmann,Ousmane Dembélé,3,4,2025
+Julian Nagelsmann,Harry Kane,1,4,2025
+Julian Nagelsmann,Kylian Mbappé,5,4,2023
+Julian Nagelsmann,İlkay Gündoğan,3,1,2023
+Julian Nagelsmann,Erling Haaland,1,4,2023
+Julian Nagelsmann,Florian Wirtz,5,1,2024
+Julian Nagelsmann,Rodri,3,4,2024
+Julian Nagelsmann,Toni Kroos,1,1,2024
+İlkay Gündoğan,Erling Haaland,5,2,2023
+İlkay Gündoğan,Lionel Messi,3,4,2023
+İlkay Gündoğan,Rodri,1,4,2023
+Georg Holzner,Ousmane Dembélé,5,4,2025
+Georg Holzner,Vitinha,3,4,2025
+Georg Holzner,Nuno Mendes,1,4,2025
+Georg Holzner,Erling Haaland,5,4,2023
+Georg Holzner,Kevin De Bruyne,3,4,2023
+Georg Holzner,Kylian Mbappé,1,4,2023
+Georg Holzner,Rodri,5,4,2024
+Georg Holzner,Vinícius Jr,3,4,2024
+Georg Holzner,Florian Wirtz,1,1,2024
+Luka Modric,Vitinha,5,4,2025
+Luka Modric,Ousmane Dembélé,3,4,2025
+Luka Modric,Lamine Yamal,1,4,2025
+Luka Modric,Lionel Messi,5,4,2023
+Luka Modric,Rodri,3,4,2023
+Luka Modric,Marcelo Brozović,1,1,2023
+Luka Modric,Vinícius Jr,5,2,2024
+Luka Modric,Jude Bellingham,3,2,2024
+Luka Modric,Dani Carvajal,1,2,2024
+Zlatko Dalić,Ousmane Dembélé,5,4,2025
+Zlatko Dalić,Mohamed Salah,3,4,2025
+Zlatko Dalić,Pedri,1,4,2025
+Robert Matteoni,Ousmane Dembélé,5,4,2025
+Robert Matteoni,Vitinha,3,4,2025
+Robert Matteoni,Lamine Yamal,1,4,2025
+Robert Matteoni,Rodri,5,4,2023
+Robert Matteoni,Victor Osimhen,3,4,2023
+Robert Matteoni,Marcelo Brozović,1,1,2023
+Robert Matteoni,Rodri,5,4,2024
+Robert Matteoni,Vinícius Jr,3,4,2024
+Robert Matteoni,Toni Kroos,1,4,2024
+Achraf Hakimi,Kylian Mbappé,5,4,2025
+Achraf Hakimi,Ousmane Dembélé,3,2,2025
+Achraf Hakimi,Raphinha,1,4,2025
+Achraf Hakimi,Kylian Mbappé,5,4,2024
+Achraf Hakimi,Vinícius Jr,3,4,2024
+Achraf Hakimi,Rodri,1,4,2024
+Hoalid Regragui,Achraf Hakimi,5,1,2025
+Hoalid Regragui,Ousmane Dembélé,3,4,2025
+Hoalid Regragui,Lamine Yamal,1,4,2025
+Hoalid Regragui,Erling Haaland,5,4,2023
+Hoalid Regragui,Lionel Messi,3,4,2023
+Hoalid Regragui,Kylian Mbappé,1,4,2023
+Jalal Bounouar,Achraf Hakimi,5,1,2025
+Jalal Bounouar,Ousmane Dembélé,3,4,2025
+Jalal Bounouar,Kylian Mbappé,1,4,2025
+Walid Regragui,Vinícius Jr,5,4,2024
+Walid Regragui,Rodri,3,4,2024
+Walid Regragui,Toni Kroos,1,4,2024
+Romain Ghanem Saiss,Erling Haaland,5,4,2023
+Romain Ghanem Saiss,Kylian Mbappé,3,4,2023
+Romain Ghanem Saiss,Lionel Messi,1,4,2023
+Jalal Bouzrara,Erling Haaland,5,4,2023
+Jalal Bouzrara,Victor Osimhen,3,4,2023
+Jalal Bouzrara,Bernardo Silva,1,4,2023
+Jalal Bouzrara,Vinícius Jr,5,4,2024
+Jalal Bouzrara,Lamine Yamal,3,4,2024
+Jalal Bouzrara,Rodri,1,4,2024
+Gianluigi Donnarumma,Ousmane Dembélé,5,2,2025
+Gianluigi Donnarumma,Achraf Hakimi,3,2,2025
+Gianluigi Donnarumma,Lamine Yamal,1,4,2025
+Gianluigi Donnarumma,Lionel Messi,5,2,2023
+Gianluigi Donnarumma,Kylian Mbappé,3,2,2023
+Gianluigi Donnarumma,Erling Haaland,1,4,2023
+Gianluigi Donnarumma,Lionel Messi,5,4,2024
+Gianluigi Donnarumma,Kylian Mbappé,3,4,2024
+Gianluigi Donnarumma,Vinícius Jr,1,4,2024
+Gennaro Gattuso,Kylian Mbappé,5,4,2025
+Gennaro Gattuso,Vitinha,3,4,2025
+Gennaro Gattuso,Mohamed Salah,1,4,2025
+Pierluigi Pardo,Ousmane Dembélé,5,4,2025
+Pierluigi Pardo,Lamine Yamal,3,4,2025
+Pierluigi Pardo,Mohamed Salah,1,4,2025
+Pierluigi Pardo,Erling Haaland,5,4,2023
+Pierluigi Pardo,Rodri,3,4,2023
+Pierluigi Pardo,Victor Osimhen,1,4,2023
+Pierluigi Pardo,Rodri,5,4,2024
+Pierluigi Pardo,Vinícius Jr,3,4,2024
+Pierluigi Pardo,Lamine Yamal,1,4,2024
+Luciano Spalletti,Lionel Messi,5,4,2023
+Luciano Spalletti,Kylian Mbappé,3,4,2023
+Luciano Spalletti,Victor Osimhen,1,4,2023
+Luciano Spalletti,Toni Kroos,5,4,2024
+Luciano Spalletti,Jude Bellingham,3,4,2024
+Luciano Spalletti,Lionel Messi,1,4,2024
+James Rodríguez,Ousmane Dembélé,5,4,2025
+James Rodríguez,Kylian Mbappé,3,4,2025
+James Rodríguez,Lamine Yamal,1,4,2025
+James Rodríguez,Vinícius Jr,5,4,2024
+James Rodríguez,Dani Carvajal,3,4,2024
+James Rodríguez,Jude Bellingham,1,4,2024
+Néstor Lorenzo,Harry Kane,5,4,2025
+Néstor Lorenzo,Vitinha,3,4,2025
+Néstor Lorenzo,Ousmane Dembélé,1,4,2025
+Néstor Lorenzo,Lionel Messi,5,4,2023
+Néstor Lorenzo,Marcelo Brozović,3,4,2023
+Néstor Lorenzo,Rodri,1,4,2023
+Néstor Lorenzo,Lionel Messi,5,4,2024
+Néstor Lorenzo,Jude Bellingham,3,4,2024
+Néstor Lorenzo,Vinícius Jr,1,4,2024
+Diego Rueda ,Ousmane Dembélé,5,4,2025
+Diego Rueda ,Lamine Yamal,3,4,2025
+Diego Rueda ,Vitinha,1,4,2025
+Diego Rueda,Erling Haaland,5,4,2023
+Diego Rueda,Kevin De Bruyne,3,4,2023
+Diego Rueda,Rodri,1,4,2023
+Diego Rueda ,Rodri,5,4,2024
+Diego Rueda ,Vinícius Jr,3,4,2024
+Diego Rueda ,Lamine Yamal,1,4,2024
+Radamel Falcao Garcia Zarate,Lionel Messi,5,4,2023
+Radamel Falcao Garcia Zarate,Kylian Mbappé,3,4,2023
+Radamel Falcao Garcia Zarate,Bernardo Silva,1,4,2023
+Tim Ream,Ousmane Dembélé,5,4,2025
+Tim Ream,Kylian Mbappé,3,4,2025
+Tim Ream,Nuno Mendes,1,4,2025
+Tim Ream,Rodri,5,4,2024
+Tim Ream,Vinícius Jr,3,4,2024
+Tim Ream,Jude Bellingham,1,4,2024
+Mauricio Pochettino,Ousmane Dembélé,5,4,2025
+Mauricio Pochettino,Kylian Mbappé,3,4,2025
+Mauricio Pochettino,Harry Kane,1,4,2025
+Mauricio Pochettino,Lionel Messi,5,4,2024
+Mauricio Pochettino,Rodri,3,4,2024
+Mauricio Pochettino,Vinícius Jr,1,4,2024
+Douglas Mcintyre,Lamine Yamal,5,4,2025
+Douglas Mcintyre,Ousmane Dembélé,3,4,2025
+Douglas Mcintyre,Raphinha,1,4,2025
+Douglas Mcintyre,Erling Haaland,5,4,2023
+Douglas Mcintyre,Lionel Messi,3,4,2023
+Douglas Mcintyre,Kylian Mbappé,1,4,2023
+Douglas Mcintyre,Jude Bellingham,5,4,2024
+Douglas Mcintyre,Rodri,3,4,2024
+Douglas Mcintyre,Vinícius Jr,1,4,2024
+Christian Mate Pulisic,Lionel Messi,5,4,2023
+Christian Mate Pulisic,Kylian Mbappé,3,4,2023
+Christian Mate Pulisic,Erling Haaland,1,4,2023
+Gregg Berhalter,Rodri,5,4,2023
+Gregg Berhalter,Erling Haaland,3,4,2023
+Gregg Berhalter,Lionel Messi,1,4,2023
+Edson Omar Alvarez Velazquez,Ousmane Dembélé,5,4,2025
+Edson Omar Alvarez Velazquez,Harry Kane,3,4,2025
+Edson Omar Alvarez Velazquez,Kylian Mbappé,1,4,2025
+Edson Omar Alvarez Velazquez,Vinícius Jr,5,4,2024
+Edson Omar Alvarez Velazquez,Rodri,3,4,2024
+Edson Omar Alvarez Velazquez,Erling Haaland,1,4,2024
+Javier Aguirre,Kylian Mbappé,5,4,2025
+Javier Aguirre,Mohamed Salah,3,4,2025
+Javier Aguirre,Achraf Hakimi,1,4,2025
+Javier Aguirre,Lionel Messi,5,4,2024
+Javier Aguirre,Rodri,3,4,2024
+Javier Aguirre,Lamine Yamal,1,4,2024
+Francisco Javier González,Ousmane Dembélé,5,4,2025
+Francisco Javier González,Vitinha,3,4,2025
+Francisco Javier González,Lamine Yamal,1,4,2025
+Francisco Javier González,Erling Haaland,5,4,2023
+Francisco Javier González,Bernardo Silva,3,4,2023
+Francisco Javier González,Kevin De Bruyne,1,4,2023
+Francisco Javier González,Vinícius Jr,5,4,2024
+Francisco Javier González,Rodri,3,4,2024
+Francisco Javier González,Dani Carvajal,1,4,2024
+Guillermo Ochoa,Lionel Messi,5,4,2023
+Guillermo Ochoa,Kylian Mbappé,3,4,2023
+Guillermo Ochoa,Erling Haaland,1,4,2023
+Jaime Arturo Lozano Espin,Erling Haaland,5,4,2023
+Jaime Arturo Lozano Espin,Julián Álvarez,3,4,2023
+Jaime Arturo Lozano Espin,İlkay Gündoğan,1,4,2023
+Jose Gimenez,Ousmane Dembélé,5,4,2025
+Jose Gimenez,Vitinha,3,4,2025
+Jose Gimenez,Raphinha,1,4,2025
+Jose Gimenez,Federico Valverde,5,1,2024
+Jose Gimenez,Rodri,3,4,2024
+Jose Gimenez,Erling Haaland,1,4,2024
+Marcelo Bielsa,Kylian Mbappé,5,4,2025
+Marcelo Bielsa,Raphinha,3,4,2025
+Marcelo Bielsa,Pedri,1,4,2025
+Marcelo Bielsa,Lionel Messi,5,4,2023
+Marcelo Bielsa,Erling Haaland,3,4,2023
+Marcelo Bielsa,İlkay Gündoğan,1,4,2023
+Marcelo Bielsa,Lionel Messi,5,4,2024
+Marcelo Bielsa,Rodri,3,4,2024
+Marcelo Bielsa,Federico Valverde,1,1,2024
+Rómulo Martínez Chenlo,Lamine Yamal,5,4,2025
+Rómulo Martínez Chenlo,Vitinha,3,4,2025
+Rómulo Martínez Chenlo,Achraf Hakimi,1,4,2025
+Rómulo Martínez Chenlo,Lionel Messi,5,4,2023
+Rómulo Martínez Chenlo,Erling Haaland,3,4,2023
+Rómulo Martínez Chenlo,Declan Rice,1,4,2023
+Rómulo Martínez Chenlo,Federico Valverde,5,1,2024
+Rómulo Martínez Chenlo,Lamine Yamal,3,4,2024
+Rómulo Martínez Chenlo,Vinícius Jr,1,4,2024
+Granit Xhaka,Ousmane Dembélé,5,4,2025
+Granit Xhaka,Achraf Hakimi,3,4,2025
+Granit Xhaka,Lamine Yamal,1,4,2025
+Granit Xhaka,Lionel Messi,5,4,2023
+Granit Xhaka,Erling Haaland,3,4,2023
+Granit Xhaka,Kylian Mbappé,1,4,2023
+Granit Xhaka,Florian Wirtz,5,2,2024
+Granit Xhaka,Toni Kroos,3,4,2024
+Granit Xhaka,Vinícius Jr,1,4,2024
+Murat Yakin,Lamine Yamal,5,4,2025
+Murat Yakin,Ousmane Dembélé,3,4,2025
+Murat Yakin,Kylian Mbappé,1,4,2025
+Murat Yakin,Lionel Messi,5,4,2023
+Murat Yakin,Julián Álvarez,3,4,2023
+Murat Yakin,Kylian Mbappé,1,4,2023
+Murat Yakin,Florian Wirtz,5,4,2024
+Murat Yakin,Federico Valverde,3,4,2024
+Murat Yakin,Lamine Yamal,1,4,2024
+Tobias Wedermann,Ousmane Dembélé,5,4,2025
+Tobias Wedermann,Mohamed Salah,3,4,2025
+Tobias Wedermann,Vitinha,1,4,2025
+Tobias Wedermann,Erling Haaland,5,4,2023
+Tobias Wedermann,Kylian Mbappé,3,4,2023
+Tobias Wedermann,Kevin De Bruyne,1,4,2023
+Tobias Wedermann,Rodri,5,4,2024
+Tobias Wedermann,Vinícius Jr,3,4,2024
+Tobias Wedermann,Jude Bellingham,1,4,2024
+Wataru Endo,Mohamed Salah,5,2,2025
+Wataru Endo,Ousmane Dembélé,3,4,2025
+Wataru Endo,Nuno Mendes,1,4,2025
+Wataru Endo,Kevin De Bruyne,5,4,2023
+Wataru Endo,Erling Haaland,3,4,2023
+Wataru Endo,Lionel Messi,1,4,2023
+Wataru Endo,Jude Bellingham,5,4,2024
+Wataru Endo,Vinícius Jr,3,4,2024
+Wataru Endo,Rodri,1,4,2024
+Hajime Moriyasu,Kylian Mbappé,5,4,2025
+Hajime Moriyasu,Lamine Yamal,3,4,2025
+Hajime Moriyasu,Achraf Hakimi,1,4,2025
+Hajime Moriyasu,Kylian Mbappé,5,4,2023
+Hajime Moriyasu,Erling Haaland,3,4,2023
+Hajime Moriyasu,Lionel Messi,1,4,2023
+Hajime Moriyasu,Rodri,5,4,2024
+Hajime Moriyasu,Erling Haaland,3,4,2024
+Hajime Moriyasu,Kylian Mbappé,1,4,2024
+Hideo Tamaru,Ousmane Dembélé,5,4,2025
+Hideo Tamaru,Mohamed Salah,3,4,2025
+Hideo Tamaru,Raphinha,1,4,2025
+Hideo Tamaru,Erling Haaland,5,4,2023
+Hideo Tamaru,Kevin De Bruyne,3,4,2023
+Hideo Tamaru,Victor Osimhen,1,4,2023
+Hideo Tamaru,Rodri,5,4,2024
+Hideo Tamaru,Jude Bellingham,3,4,2024
+Hideo Tamaru,Vinícius Jr,1,4,2024
+Kalidou Koulibaly,Ousmane Dembélé,5,4,2025
+Kalidou Koulibaly,Achraf Hakimi,3,4,2025
+Kalidou Koulibaly,Lamine Yamal,1,4,2025
+Kalidou Koulibaly,Lionel Messi,5,4,2023
+Kalidou Koulibaly,Erling Haaland,3,4,2023
+Kalidou Koulibaly,Kylian Mbappé,1,4,2023
+Kalidou Koulibaly,Vinícius Jr,5,4,2024
+Kalidou Koulibaly,Dani Carvajal,3,4,2024
+Kalidou Koulibaly,Rodri,1,4,2024
+Pape Bouna Thiaw,Ousmane Dembélé,5,4,2025
+Pape Bouna Thiaw,Achraf Hakimi,3,4,2025
+Pape Bouna Thiaw,Raphinha,1,4,2025
+Pape Bouna Thiaw,Vinícius Jr,5,4,2024
+Pape Bouna Thiaw,Rodri,3,4,2024
+Pape Bouna Thiaw,Jude Bellingham,1,4,2024
+Thierno Souleymane Diallo,Ousmane Dembélé,5,4,2025
+Thierno Souleymane Diallo,Achraf Hakimi,3,4,2025
+Thierno Souleymane Diallo,Kylian Mbappé,1,4,2025
+Thierno Souleymane Diallo,Kylian Mbappé,5,4,2023
+Thierno Souleymane Diallo,Erling Haaland,3,4,2023
+Thierno Souleymane Diallo,Victor Osimhen,1,4,2023
+Thierno Souleymane Diallo,Vinícius Jr,5,4,2024
+Thierno Souleymane Diallo,Dani Carvajal,3,4,2024
+Thierno Souleymane Diallo,Lionel Messi,1,4,2024
+Aliou Cissé,Erling Haaland,5,4,2023
+Aliou Cissé,Kylian Mbappé,3,4,2023
+Aliou Cissé,Victor Osimhen,1,4,2023
+Alireza Jahanbakhsh,Ousmane Dembélé,5,4,2025
+Alireza Jahanbakhsh,Lamine Yamal,3,4,2025
+Alireza Jahanbakhsh,Vitinha,1,4,2025
+Alireza Jahanbakhsh,Vinícius Jr,5,4,2024
+Alireza Jahanbakhsh,Rodri,3,4,2024
+Alireza Jahanbakhsh,Dani Carvajal,1,4,2024
+Ardeshir Ghalehnoy,Ousmane Dembélé,5,4,2025
+Ardeshir Ghalehnoy,Kylian Mbappé,3,4,2025
+Ardeshir Ghalehnoy,Vitinha,1,4,2025
+Ardeshir Ghalehnoy,Lionel Messi,5,4,2023
+Ardeshir Ghalehnoy,Kevin De Bruyne,3,4,2023
+Ardeshir Ghalehnoy,Erling Haaland,1,4,2023
+Ardeshir Ghalehnoy,Lamine Yamal,5,4,2024
+Ardeshir Ghalehnoy,Vinícius Jr,3,4,2024
+Ardeshir Ghalehnoy,Rodri,1,4,2024
+Masoud Hossein,Ousmane Dembélé,5,4,2025
+Masoud Hossein,Nuno Mendes,3,4,2025
+Masoud Hossein,Vitinha,1,4,2025
+Masoud Hossein,Kevin De Bruyne,5,4,2023
+Masoud Hossein,Rodri,3,4,2023
+Masoud Hossein,Marcelo Brozović,1,4,2023
+Masoud Hossein,Vinícius Jr,5,4,2024
+Masoud Hossein,Rodri,3,4,2024
+Masoud Hossein,Erling Haaland,1,4,2024
+Ehsan Hajisafi,Erling Haaland,5,4,2023
+Ehsan Hajisafi,Lionel Messi,3,4,2023
+Ehsan Hajisafi,Rodri,1,4,2023
+Pierre Emile Højbjerg,Ousmane Dembélé,5,4,2025
+Pierre Emile Højbjerg,Kylian Mbappé,3,4,2025
+Pierre Emile Højbjerg,Harry Kane,1,4,2025
+Pierre Emile Højbjerg,Erling Haaland,5,4,2024
+Pierre Emile Højbjerg,Vinícius Jr,3,4,2024
+Pierre Emile Højbjerg,Rodri,1,4,2024
+Brian Riemer,Kylian Mbappé,5,4,2025
+Brian Riemer,Ousmane Dembélé,3,4,2025
+Brian Riemer,Lamine Yamal,1,4,2025
+Brian Riemer,Rodri,5,4,2024
+Brian Riemer,Jude Bellingham,3,4,2024
+Brian Riemer,Lamine Yamal,1,4,2024
+Klaus Egelund,Mohamed Salah,5,4,2025
+Klaus Egelund,Ousmane Dembélé,3,4,2025
+Klaus Egelund,Vitinha,1,4,2025
+Klaus Egelund,Erling Haaland,5,4,2023
+Klaus Egelund,Kevin De Bruyne,3,4,2023
+Klaus Egelund,Khvicha Kvaratskhelia,1,4,2023
+Klaus Egelund,Rodri,5,4,2024
+Klaus Egelund,Toni Kroos,3,4,2024
+Klaus Egelund,Vinícius Jr,1,4,2024
+Simon Kjär,Lionel Messi,5,4,2023
+Simon Kjär,Erling Haaland,3,4,2023
+Simon Kjär,Kylian Mbappé,1,4,2023
+Kasper Hjulmand,Kevin De Bruyne,5,4,2023
+Kasper Hjulmand,Lionel Messi,3,4,2023
+Kasper Hjulmand,Erling Haaland,1,4,2023
+Heung Min Son,Ousmane Dembélé,5,4,2025
+Heung Min Son,Harry Kane,3,4,2025
+Heung Min Son,Lamine Yamal,1,4,2025
+Heung Min Son,Lionel Messi,5,4,2023
+Heung Min Son,Erling Haaland,3,4,2023
+Heung Min Son,Kylian Mbappé,1,4,2023
+Heung Min Son,Rodri,5,4,2024
+Heung Min Son,Vinícius Jr,3,4,2024
+Heung Min Son,Dani Carvajal,1,4,2024
+Myung Bo Hong,Ousmane Dembélé,5,4,2025
+Myung Bo Hong,Lamine Yamal,3,4,2025
+Myung Bo Hong,Vitinha,1,4,2025
+Myung Bo Hong,Rodri,5,4,2024
+Myung Bo Hong,Vinícius Jr,3,4,2024
+Myung Bo Hong,Lamine Yamal,1,4,2024
+Gun Lee,Ousmane Dembélé,5,4,2025
+Gun Lee,Harry Kane,3,4,2025
+Gun Lee,Mohamed Salah,1,4,2025
+Gun Lee,Kevin De Bruyne,5,4,2023
+Gun Lee,Erling Haaland,3,4,2023
+Gun Lee,Victor Osimhen,1,4,2023
+Gun Lee,Rodri,5,4,2024
+Gun Lee,Toni Kroos,3,4,2024
+Gun Lee,Jude Bellingham,1,4,2024
+Juergen Klinsmann,Erling Haaland,5,4,2023
+Juergen Klinsmann,Victor Osimhen,3,4,2023
+Juergen Klinsmann,İlkay Gündoğan,1,4,2023
+Enner Valencia,Ousmane Dembélé,5,4,2025
+Enner Valencia,Kylian Mbappé,3,4,2025
+Enner Valencia,Lamine Yamal,1,4,2025
+Enner Valencia,Lionel Messi,5,4,2023
+Enner Valencia,Kylian Mbappé,3,4,2023
+Enner Valencia,Erling Haaland,1,4,2023
+Enner Valencia,Vinícius Jr,5,4,2024
+Enner Valencia,Toni Kroos,3,4,2024
+Enner Valencia,Rodri,1,4,2024
+Sebastián Beccacece,Lamine Yamal,5,4,2025
+Sebastián Beccacece,Harry Kane,3,4,2025
+Sebastián Beccacece,Vitinha,1,4,2025
+Sebastián Beccacece,Lionel Messi,5,4,2024
+Sebastián Beccacece,Rodri,3,4,2024
+Sebastián Beccacece,Lamine Yamal,1,4,2024
+Tito Rosales Cox,Ousmane Dembélé,5,4,2025
+Tito Rosales Cox,Nuno Mendes,3,4,2025
+Tito Rosales Cox,Lamine Yamal,1,4,2025
+Tito Rosales Cox,Erling Haaland,5,4,2023
+Tito Rosales Cox,Marcelo Brozović,3,4,2023
+Tito Rosales Cox,Lionel Messi,1,4,2023
+Tito Rosales Cox,Rodri,5,4,2024
+Tito Rosales Cox,Vinícius Jr,3,4,2024
+Tito Rosales Cox,Dani Carvajal,1,4,2024
+Felix Sanchez Bas,Kevin De Bruyne,5,4,2023
+Felix Sanchez Bas,Lionel Messi,3,4,2023
+Felix Sanchez Bas,Kylian Mbappé,1,4,2023
+David Alaba,Kylian Mbappé,5,2,2025
+David Alaba,Achraf Hakimi,3,4,2025
+David Alaba,Ousmane Dembélé,1,4,2025
+David Alaba,Erling Haaland,5,4,2023
+David Alaba,Rodri,3,4,2023
+David Alaba,Kevin De Bruyne,1,4,2023
+David Alaba,Vinícius Jr,5,2,2024
+David Alaba,Dani Carvajal,3,2,2024
+David Alaba,Jude Bellingham,1,2,2024
+Ralf Rangnick,Ousmane Dembélé,5,4,2025
+Ralf Rangnick,Harry Kane,3,4,2025
+Ralf Rangnick,Kylian Mbappé,1,4,2025
+Ralf Rangnick,Erling Haaland,5,4,2023
+Ralf Rangnick,İlkay Gündoğan,3,4,2023
+Ralf Rangnick,Kevin De Bruyne,1,4,2023
+Ralf Rangnick,Rodri,5,4,2024
+Ralf Rangnick,Erling Haaland,3,4,2024
+Ralf Rangnick,Florian Wirtz,1,4,2024
+Stefan Grüneis,Ousmane Dembélé,5,4,2025
+Stefan Grüneis,Vitinha,3,4,2025
+Stefan Grüneis,Lamine Yamal,1,4,2025
+Stefan Grüneis,Rodri,5,4,2024
+Stefan Grüneis,Vinícius Jr,3,4,2024
+Stefan Grüneis,Erling Haaland,1,4,2024
+Lackner Gerhard,Lionel Messi,5,4,2023
+Lackner Gerhard,Kylian Mbappé,3,4,2023
+Lackner Gerhard,Declan Rice,1,4,2023
+Hakan Calhanoglu,Ousmane Dembélé,5,4,2025
+Hakan Calhanoglu,Nuno Mendes,3,4,2025
+Hakan Calhanoglu,Achraf Hakimi,1,4,2025
+Hakan Calhanoglu,Lionel Messi,5,4,2023
+Hakan Calhanoglu,Erling Haaland,3,4,2023
+Hakan Calhanoglu,Kylian Mbappé,1,4,2023
+Hakan Calhanoglu,Toni Kroos,5,4,2024
+Hakan Calhanoglu,Lamine Yamal,3,4,2024
+Hakan Calhanoglu,Florian Wirtz,1,4,2024
+Vincenzo Montella,Pedri,5,4,2025
+Vincenzo Montella,Harry Kane,3,4,2025
+Vincenzo Montella,Mohamed Salah,1,4,2025
+Vincenzo Montella,Lionel Messi,5,4,2023
+Vincenzo Montella,Erling Haaland,3,4,2023
+Vincenzo Montella,Bernardo Silva,1,4,2023
+Vincenzo Montella,Toni Kroos,5,4,2024
+Vincenzo Montella,Vinícius Jr,3,4,2024
+Vincenzo Montella,Rodri,1,4,2024
+Serkan Saydam,Ousmane Dembélé,5,4,2025
+Serkan Saydam,Achraf Hakimi,3,4,2025
+Serkan Saydam,Lamine Yamal,1,4,2025
+Mehmet Arslan,Lionel Messi,5,4,2023
+Mehmet Arslan,Erling Haaland,3,4,2023
+Mehmet Arslan,İlkay Gündoğan,1,4,2023
+Mehmet Arslan,Vinícius Jr,5,4,2024
+Mehmet Arslan,Jude Bellingham,3,4,2024
+Mehmet Arslan,Erling Haaland,1,4,2024
+Mathew Ryan,Harry Kane,5,4,2025
+Mathew Ryan,Ousmane Dembélé,3,4,2025
+Mathew Ryan,Kylian Mbappé,1,4,2025
+Mathew Ryan,Lionel Messi,5,4,2023
+Mathew Ryan,Erling Haaland,3,4,2023
+Mathew Ryan,Victor Osimhen,1,4,2023
+Mathew Ryan,Vinícius Jr,5,4,2024
+Mathew Ryan,Rodri,3,4,2024
+Mathew Ryan,Jude Bellingham,1,4,2024
+Tony Popovic,Ousmane Dembélé,5,4,2025
+Tony Popovic,Raphinha,3,4,2025
+Tony Popovic,Vitinha,1,4,2025
+Tony Popovic,Vinícius Jr,5,4,2024
+Tony Popovic,Rodri,3,4,2024
+Tony Popovic,Erling Haaland,1,4,2024
+Vince Rugari,Harry Kane,5,4,2025
+Vince Rugari,Ousmane Dembélé,3,4,2025
+Vince Rugari,Lamine Yamal,1,4,2025
+Simon Hill,Julián Álvarez,5,4,2023
+Simon Hill,Lionel Messi,3,4,2023
+Simon Hill,Erling Haaland,1,4,2023
+Simon Hill,Rodri,5,4,2024
+Simon Hill,Vinícius Jr,3,4,2024
+Simon Hill,Dani Carvajal,1,4,2024
+Graham Arnold,Ousmane Dembélé,5,4,2025
+Graham Arnold,Lamine Yamal,3,4,2025
+Graham Arnold,Kylian Mbappé,1,4,2025
+Graham Arnold,Erling Haaland,5,4,2023
+Graham Arnold,Lionel Messi,3,4,2023
+Graham Arnold,Kylian Mbappé,1,4,2023
+Alphonso Davies,Harry Kane,5,2,2025
+Alphonso Davies,Ousmane Dembélé,3,4,2025
+Alphonso Davies,Lamine Yamal,1,4,2025
+Alphonso Davies,Vinícius Jr,5,4,2024
+Alphonso Davies,Lamine Yamal,3,4,2024
+Alphonso Davies,Jude Bellingham,1,4,2024
+Jesse Marsch,Raphinha,5,4,2025
+Jesse Marsch,Mohamed Salah,3,4,2025
+Jesse Marsch,Lamine Yamal,1,4,2025
+Jesse Marsch,Erling Haaland,5,4,2024
+Jesse Marsch,Rodri,3,4,2024
+Jesse Marsch,Vinícius Jr,1,4,2024
+Neil Davidson,Ousmane Dembélé,5,4,2025
+Neil Davidson,Lamine Yamal,3,4,2025
+Neil Davidson,Vitinha,1,4,2025
+Neil Davidson,Erling Haaland,5,4,2023
+Neil Davidson,Lionel Messi,3,4,2023
+Neil Davidson,Kylian Mbappé,1,4,2023
+Neil Davidson,Rodri,5,4,2024
+Neil Davidson,Vinícius Jr,3,4,2024
+Neil Davidson,Jude Bellingham,1,4,2024
+Milan Borjan,Lionel Messi,5,4,2023
+Milan Borjan,Erling Haaland,3,4,2023
+Milan Borjan,Marcelo Brozović,1,4,2023
+Mauro Biello,Lionel Messi,5,4,2023
+Mauro Biello,Kylian Mbappé,3,4,2023
+Mauro Biello,Erling Haaland,1,4,2023
+Mykola Matvienko,Kylian Mbappé,5,4,2025
+Mykola Matvienko,Ousmane Dembélé,3,4,2025
+Mykola Matvienko,Harry Kane,1,4,2025
+Mykola Matvienko,Rodri,5,4,2024
+Mykola Matvienko,Vinícius Jr,3,4,2024
+Mykola Matvienko,Florian Wirtz,1,4,2024
+Serhii Rebrov,Kylian Mbappé,5,4,2025
+Serhii Rebrov,Ousmane Dembélé,3,4,2025
+Serhii Rebrov,Lamine Yamal,1,4,2025
+Serhii Rebrov,Kylian Mbappé,5,4,2023
+Serhii Rebrov,Lionel Messi,3,4,2023
+Serhii Rebrov,Erling Haaland,1,4,2023
+Serhii Rebrov,Rodri,5,4,2024
+Serhii Rebrov,Jude Bellingham,3,4,2024
+Serhii Rebrov,Vinícius Jr,1,4,2024
+Valerii Novobranets,Ousmane Dembélé,5,4,2025
+Valerii Novobranets,Lamine Yamal,3,4,2025
+Valerii Novobranets,Harry Kane,1,4,2025
+Valerii Novobranets,Erling Haaland,5,4,2023
+Valerii Novobranets,Kevin De Bruyne,3,4,2023
+Valerii Novobranets,Rodri,1,4,2023
+Valerii Novobranets,Rodri,5,4,2024
+Valerii Novobranets,Vinícius Jr,3,4,2024
+Valerii Novobranets,Erling Haaland,1,4,2024
+Andriy Yarmolenko,Lionel Messi,5,4,2023
+Andriy Yarmolenko,Kylian Mbappé,3,4,2023
+Andriy Yarmolenko,Kevin De Bruyne,1,4,2023
+Martin Odegaard,Ousmane Dembélé,5,4,2025
+Martin Odegaard,Vitinha,3,4,2025
+Martin Odegaard,Harry Kane,1,4,2025
+Martin Odegaard,Erling Haaland,5,1,2023
+Martin Odegaard,Lionel Messi,3,4,2023
+Martin Odegaard,Kylian Mbappé,1,4,2023
+Martin Odegaard,Vinícius Jr,5,4,2024
+Martin Odegaard,Rodri,3,4,2024
+Martin Odegaard,Erling Haaland,1,1,2024
+Ståle Solbakken,Vitinha,5,4,2025
+Ståle Solbakken,Pedri,3,4,2025
+Ståle Solbakken,Lamine Yamal,1,4,2025
+Ståle Solbakken,Erling Haaland,5,1,2023
+Ståle Solbakken,Kevin De Bruyne,3,4,2023
+Ståle Solbakken,Kylian Mbappé,1,4,2023
+Ståle Solbakken,Rodri,5,4,2024
+Ståle Solbakken,Erling Haaland,3,1,2024
+Ståle Solbakken,Jude Bellingham,1,4,2024
+Morten Pedersen,Vitinha,5,4,2025
+Morten Pedersen,Lamine Yamal,3,4,2025
+Morten Pedersen,Mohamed Salah,1,4,2025
+Morten Pedersen,Erling Haaland,5,1,2023
+Morten Pedersen,Kevin De Bruyne,3,4,2023
+Morten Pedersen,Bernardo Silva,1,4,2023
+Morten Pedersen,Rodri,5,4,2024
+Morten Pedersen,Vinícius Jr,3,4,2024
+Morten Pedersen,Erling Haaland,1,1,2024
+Anibal Godoy,Ousmane Dembélé,5,4,2025
+Anibal Godoy,Lamine Yamal,3,4,2025
+Anibal Godoy,Vitinha,1,4,2025
+Anibal Godoy,Lionel Messi,5,4,2023
+Anibal Godoy,Kylian Mbappé,3,4,2023
+Anibal Godoy,Erling Haaland,1,4,2023
+Anibal Godoy,Vinícius Jr,5,4,2024
+Anibal Godoy,Rodri,3,4,2024
+Anibal Godoy,Dani Carvajal,1,4,2024
+Thomas Christiansen,Ousmane Dembélé,5,4,2025
+Thomas Christiansen,Pedri,3,4,2025
+Thomas Christiansen,Lamine Yamal,1,4,2025
+Thomas Christiansen,Lionel Messi,5,4,2023
+Thomas Christiansen,Erling Haaland,3,4,2023
+Thomas Christiansen,Kylian Mbappé,1,4,2023
+Thomas Christiansen,Rodri,5,4,2024
+Thomas Christiansen,Vinícius Jr,3,4,2024
+Thomas Christiansen,Federico Valverde,1,4,2024
+David Samudio Garay,Ousmane Dembélé,5,4,2025
+David Samudio Garay,Lamine Yamal,3,4,2025
+David Samudio Garay,Kylian Mbappé,1,4,2025
+David Samudio Garay,Erling Haaland,5,4,2023
+David Samudio Garay,Rodri,3,4,2023
+David Samudio Garay,Kevin De Bruyne,1,4,2023
+David Samudio Garay,Rodri,5,4,2024
+David Samudio Garay,Vinícius Jr,3,4,2024
+David Samudio Garay,Jude Bellingham,1,4,2024
+Robert Lewandowski,Lamine Yamal,5,2,2025
+Robert Lewandowski,Raphinha,3,2,2025
+Robert Lewandowski,Pedri,1,2,2025
+Robert Lewandowski,Lionel Messi,5,4,2023
+Robert Lewandowski,İlkay Gündoğan,3,2,2023
+Robert Lewandowski,Erling Haaland,1,4,2023
+Robert Lewandowski,Rodri,5,4,2024
+Robert Lewandowski,Lamine Yamal,3,4,2024
+Robert Lewandowski,Dani Carvajal,1,4,2024
+Jan Urban,Harry Kane,5,4,2025
+Jan Urban,Lamine Yamal,3,4,2025
+Jan Urban,Vitinha,1,4,2025
+Michal Pol,Ousmane Dembélé,5,4,2025
+Michal Pol,Lamine Yamal,3,4,2025
+Michal Pol,Vitinha,1,4,2025
+Michal Pol,Erling Haaland,5,4,2023
+Michal Pol,Kevin De Bruyne,3,4,2023
+Michal Pol,Victor Osimhen,1,4,2023
+Michal Pol,Dani Carvajal,5,4,2024
+Michal Pol,Vinícius Jr,3,4,2024
+Michal Pol,Rodri,1,4,2024
+Michał Probierz,Kevin De Bruyne,5,4,2023
+Michał Probierz,Lionel Messi,3,4,2023
+Michał Probierz,Erling Haaland,1,4,2023
+Michał Probierz,Toni Kroos,5,4,2024
+Michał Probierz,Rodri,3,4,2024
+Michał Probierz,Lamine Yamal,1,4,2024
+Aaron Ramsey,Ousmane Dembélé,5,4,2025
+Aaron Ramsey,Lamine Yamal,3,4,2025
+Aaron Ramsey,Vitinha,1,4,2025
+Aaron Ramsey,Lionel Messi,5,4,2023
+Aaron Ramsey,Erling Haaland,3,4,2023
+Aaron Ramsey,Kevin De Bruyne,1,4,2023
+Aaron Ramsey,Vinícius Jr,5,4,2024
+Aaron Ramsey,Rodri,3,4,2024
+Aaron Ramsey,Jude Bellingham,1,4,2024
+Paul Abbandonato,Ousmane Dembélé,5,4,2025
+Paul Abbandonato,Lamine Yamal,3,4,2025
+Paul Abbandonato,Mohamed Salah,1,4,2025
+Paul Abbandonato,Erling Haaland,5,4,2023
+Paul Abbandonato,İlkay Gündoğan,3,4,2023
+Paul Abbandonato,Victor Osimhen,1,4,2023
+Paul Abbandonato,Vinícius Jr,5,4,2024
+Paul Abbandonato,Rodri,3,4,2024
+Paul Abbandonato,Dani Carvajal,1,4,2024
+Craig Bellamy,Rodri,5,4,2024
+Craig Bellamy,Vinícius Jr,3,4,2024
+Craig Bellamy,Dani Carvajal,1,4,2024
+Robert Page,Lionel Messi,5,4,2023
+Robert Page,Kylian Mbappé,3,4,2023
+Robert Page,Kevin De Bruyne,1,4,2023
+Aleksandr Golovin,Kylian Mbappé,5,4,2025
+Aleksandr Golovin,Lamine Yamal,3,4,2025
+Aleksandr Golovin,Ousmane Dembélé,1,4,2025
+Aleksandr Golovin,Toni Kroos,5,4,2024
+Aleksandr Golovin,Kylian Mbappé,3,4,2024
+Aleksandr Golovin,Vinícius Jr,1,4,2024
+Valeri Karpin,Vitinha,5,4,2025
+Valeri Karpin,Kylian Mbappé,3,4,2025
+Valeri Karpin,Ousmane Dembélé,1,4,2025
+Valeri Karpin,Lionel Messi,5,4,2023
+Valeri Karpin,Erling Haaland,3,4,2023
+Valeri Karpin,Kylian Mbappé,1,4,2023
+Oleg Koshelev,Ousmane Dembélé,5,4,2025
+Oleg Koshelev,Raphinha,3,4,2025
+Oleg Koshelev,Mohamed Salah,1,4,2025
+Oleg Koshelev,Kevin De Bruyne,5,4,2023
+Oleg Koshelev,Erling Haaland,3,4,2023
+Oleg Koshelev,Khvicha Kvaratskhelia,1,4,2023
+Oleg Koshelev,Rodri,5,4,2024
+Oleg Koshelev,Vinícius Jr,3,4,2024
+Oleg Koshelev,Dani Carvajal,1,4,2024
+Georgi Dzhikiya,Khvicha Kvaratskhelia,5,4,2023
+Georgi Dzhikiya,Lionel Messi,3,4,2023
+Georgi Dzhikiya,Kevin De Bruyne,1,4,2023
+Emerse Fae,Kylian Mbappé,5,4,2025
+Emerse Fae,Ousmane Dembélé,3,4,2025
+Emerse Fae,Vitinha,1,4,2025
+Emerse Fae,Vinícius Jr,5,4,2024
+Emerse Fae,Dani Carvajal,3,4,2024
+Emerse Fae,Florian Wirtz,1,4,2024
+Malick Traoré,Ousmane Dembélé,5,4,2025
+Malick Traoré,Achraf Hakimi,3,4,2025
+Malick Traoré,Vitinha,1,4,2025
+Magloire Gnae Oulidehi,Kevin De Bruyne,5,4,2023
+Magloire Gnae Oulidehi,Erling Haaland,3,4,2023
+Magloire Gnae Oulidehi,İlkay Gündoğan,1,4,2023
+Magloire Gnae Oulidehi,Vinícius Jr,5,4,2024
+Magloire Gnae Oulidehi,Rodri,3,4,2024
+Magloire Gnae Oulidehi,Jude Bellingham,1,4,2024
+Max Alain Gradel,Erling Haaland,5,4,2023
+Max Alain Gradel,Lionel Messi,3,4,2023
+Max Alain Gradel,Victor Osimhen,1,4,2023
+Jean Louis Gasset,Kylian Mbappé,5,4,2023
+Jean Louis Gasset,Lionel Messi,3,4,2023
+Jean Louis Gasset,Erling Haaland,1,4,2023
+Franck Kessié,Vinícius Jr,5,4,2024
+Franck Kessié,Dani Carvajal,3,4,2024
+Franck Kessié,Rodri,1,4,2024
+Andrew Robertson,Mohamed Salah,5,2,2025
+Andrew Robertson,Ousmane Dembélé,3,4,2025
+Andrew Robertson,Nuno Mendes,1,4,2025
+Andrew Robertson,Lionel Messi,5,4,2023
+Andrew Robertson,Erling Haaland,3,4,2023
+Andrew Robertson,Kylian Mbappé,1,4,2023
+Steve Clarke,Ousmane Dembélé,5,4,2025
+Steve Clarke,Vitinha,3,4,2025
+Steve Clarke,Mohamed Salah,1,4,2025
+Steve Clarke,Lionel Messi,5,4,2023
+Steve Clarke,Kylian Mbappé,3,4,2023
+Steve Clarke,Erling Haaland,1,4,2023
+Steve Clarke,Rodri,5,4,2024
+Steve Clarke,Lamine Yamal,3,4,2024
+Steve Clarke,Dani Carvajal,1,4,2024
+Scott Mcdermott,Vitinha,5,4,2025
+Scott Mcdermott,Ousmane Dembélé,3,4,2025
+Scott Mcdermott,Harry Kane,1,4,2025
+Scott Mcdermott,Rodri,5,4,2023
+Scott Mcdermott,Erling Haaland,3,4,2023
+Scott Mcdermott,İlkay Gündoğan,1,4,2023
+Scott Mcdermott,Rodri,5,4,2024
+Scott Mcdermott,Vinícius Jr,3,4,2024
+Scott Mcdermott,Dani Carvajal,1,4,2024
+Aleksandar Mitrovic,Ousmane Dembélé,5,4,2025
+Aleksandar Mitrovic,Kylian Mbappé,3,4,2025
+Aleksandar Mitrovic,Vitinha,1,4,2025
+Aleksandar Mitrovic,Vinícius Jr,5,4,2024
+Aleksandar Mitrovic,Erling Haaland,3,4,2024
+Aleksandar Mitrovic,Rodri,1,4,2024
+Veljko Paunovic,Kylian Mbappé,5,4,2025
+Veljko Paunovic,Pedri,3,4,2025
+Veljko Paunovic,Nuno Mendes,1,4,2025
+Milan Rasevic,Ousmane Dembélé,5,4,2025
+Milan Rasevic,Mohamed Salah,3,4,2025
+Milan Rasevic,Kylian Mbappé,1,4,2025
+Milan Rasevic,Erling Haaland,5,4,2023
+Milan Rasevic,Kevin De Bruyne,3,4,2023
+Milan Rasevic,Kylian Mbappé,1,4,2023
+Milan Rasevic,Rodri,5,4,2024
+Milan Rasevic,Dani Carvajal,3,4,2024
+Milan Rasevic,Vinícius Jr,1,4,2024
+Dragan Stojkovic,Erling Haaland,5,4,2023
+Dragan Stojkovic,Kylian Mbappé,3,4,2023
+Dragan Stojkovic,Rodri,1,4,2023
+Dragan Stojkovic,Rodri,5,4,2024
+Dragan Stojkovic,Vinícius Jr,3,4,2024
+Dragan Stojkovic,Erling Haaland,1,4,2024
+Dusan Tadic,Kevin De Bruyne,5,4,2023
+Dusan Tadic,Lionel Messi,3,4,2023
+Dusan Tadic,Kylian Mbappé,1,4,2023
+Gustavo Gomez,Ousmane Dembélé,5,4,2025
+Gustavo Gomez,Lamine Yamal,3,4,2025
+Gustavo Gomez,Kylian Mbappé,1,4,2025
+Gustavo Gomez,Lionel Messi,5,4,2023
+Gustavo Gomez,Erling Haaland,3,4,2023
+Gustavo Gomez,Kylian Mbappé,1,4,2023
+Gustavo Gomez,Vinícius Jr,5,4,2024
+Gustavo Gomez,Rodri,3,4,2024
+Gustavo Gomez,Erling Haaland,1,4,2024
+Gustavo Alfaro,Ousmane Dembélé,5,4,2025
+Gustavo Alfaro,Vitinha,3,4,2025
+Gustavo Alfaro,Pedri,1,4,2025
+Gustavo Alfaro,Toni Kroos,5,4,2024
+Gustavo Alfaro,Lionel Messi,3,4,2024
+Gustavo Alfaro,Jude Bellingham,1,4,2024
+Edgar Cantero,Ousmane Dembélé,5,4,2025
+Edgar Cantero,Lamine Yamal,3,4,2025
+Edgar Cantero,Vitinha,1,4,2025
+Edgar Cantero,Bernardo Silva,5,4,2023
+Edgar Cantero,Kevin De Bruyne,3,4,2023
+Edgar Cantero,Erling Haaland,1,4,2023
+Edgar Cantero,Vinícius Jr,5,4,2024
+Edgar Cantero,Rodri,3,4,2024
+Edgar Cantero,Toni Kroos,1,4,2024
+Daniel Garnero,Lionel Messi,5,4,2023
+Daniel Garnero,Julián Álvarez,3,4,2023
+Daniel Garnero,Kevin De Bruyne,1,4,2023
+Dominik Szoboszlai,Mohamed Salah,5,2,2025
+Dominik Szoboszlai,Ousmane Dembélé,3,4,2025
+Dominik Szoboszlai,Kylian Mbappé,1,4,2025
+Dominik Szoboszlai,Erling Haaland,5,4,2023
+Dominik Szoboszlai,Lionel Messi,3,4,2023
+Dominik Szoboszlai,Kylian Mbappé,1,4,2023
+Marco Rossi,Lamine Yamal,5,4,2025
+Marco Rossi,Ousmane Dembélé,3,4,2025
+Marco Rossi,Vitinha,1,4,2025
+Marco Rossi,Erling Haaland,5,4,2023
+Marco Rossi,Lionel Messi,3,4,2023
+Marco Rossi,Kylian Mbappé,1,4,2023
+Marco Rossi,Vinícius Jr,5,4,2024
+Marco Rossi,Rodri,3,4,2024
+Marco Rossi,Florian Wirtz,1,4,2024
+György Szöllösi,Ousmane Dembélé,5,4,2025
+György Szöllösi,Lamine Yamal,3,4,2025
+György Szöllösi,Kylian Mbappé,1,4,2025
+György Szöllösi,Erling Haaland,5,4,2023
+György Szöllösi,Kevin De Bruyne,3,4,2023
+György Szöllösi,Khvicha Kvaratskhelia,1,4,2023
+György Szöllösi,Dani Carvajal,5,4,2024
+György Szöllösi,Rodri,3,4,2024
+György Szöllösi,Vinícius Jr,1,4,2024
+Victor Lindelof,Ousmane Dembélé,5,4,2025
+Victor Lindelof,Raphinha,3,4,2025
+Victor Lindelof,Vitinha,1,4,2025
+Victor Lindelof,Erling Haaland,5,4,2023
+Victor Lindelof,Lionel Messi,3,4,2023
+Victor Lindelof,Bernardo Silva,1,4,2023
+Victor Lindelof,Rodri,5,4,2024
+Victor Lindelof,Vinícius Jr,3,4,2024
+Victor Lindelof,Erling Haaland,1,4,2024
+Graham Potter,Ousmane Dembélé,5,4,2025
+Graham Potter,Nuno Mendes,3,4,2025
+Graham Potter,Pedri,1,4,2025
+Simon Bank,Ousmane Dembélé,5,4,2025
+Simon Bank,Lamine Yamal,3,4,2025
+Simon Bank,Pedri,1,4,2025
+Simon Bank,Lionel Messi,5,4,2023
+Simon Bank,Erling Haaland,3,4,2023
+Simon Bank,Kylian Mbappé,1,4,2023
+Simon Bank,Rodri,5,4,2024
+Simon Bank,Vinícius Jr,3,4,2024
+Simon Bank,Dani Carvajal,1,4,2024
+Jon Dahl Tomasson,Rodri,5,4,2024
+Jon Dahl Tomasson,Vinícius Jr,3,4,2024
+Jon Dahl Tomasson,Lamine Yamal,1,4,2024
+Jan Andersson,Rodri,5,4,2023
+Jan Andersson,Kylian Mbappé,3,4,2023
+Jan Andersson,Lionel Messi,1,4,2023
+Tomas Soucek,Ousmane Dembélé,5,4,2025
+Tomas Soucek,Lamine Yamal,3,4,2025
+Tomas Soucek,Vitinha,1,4,2025
+Tomas Soucek,Erling Haaland,5,4,2023
+Tomas Soucek,Lionel Messi,3,4,2023
+Tomas Soucek,Kylian Mbappé,1,4,2023
+Tomas Soucek,Rodri,5,4,2024
+Tomas Soucek,Jude Bellingham,3,4,2024
+Tomas Soucek,Dani Carvajal,1,4,2024
+Jaroslav Köstl,Lamine Yamal,5,4,2025
+Jaroslav Köstl,Ousmane Dembélé,3,4,2025
+Jaroslav Köstl,Vitinha,1,4,2025
+Jan Palička,Lamine Yamal,5,4,2025
+Jan Palička,Ousmane Dembélé,3,4,2025
+Jan Palička,Mohamed Salah,1,4,2025
+Jan Palička,Erling Haaland,5,4,2023
+Jan Palička,Lionel Messi,3,4,2023
+Jan Palička,Kevin De Bruyne,1,4,2023
+Jan Palička,Rodri,5,4,2024
+Jan Palička,Jude Bellingham,3,4,2024
+Jan Palička,Florian Wirtz,1,4,2024
+Ivan Hasek,Rodri,5,4,2024
+Ivan Hasek,Lamine Yamal,3,4,2024
+Ivan Hasek,Vinícius Jr,1,4,2024
+Jaroslav Silhavy,Erling Haaland,5,4,2023
+Jaroslav Silhavy,Kevin De Bruyne,3,4,2023
+Jaroslav Silhavy,Kylian Mbappé,1,4,2023
+Milan Škriniar,Ousmane Dembélé,5,4,2025
+Milan Škriniar,Kylian Mbappé,3,4,2025
+Milan Škriniar,Vitinha,1,4,2025
+Milan Škriniar,Lionel Messi,5,4,2023
+Milan Škriniar,Kylian Mbappé,3,4,2023
+Milan Škriniar,Erling Haaland,1,4,2023
+Milan Škriniar,Kylian Mbappé,5,4,2024
+Milan Škriniar,Rodri,3,4,2024
+Milan Škriniar,Vinícius Jr,1,4,2024
+Francesco Calzona,Vitinha,5,4,2025
+Francesco Calzona,Pedri,3,4,2025
+Francesco Calzona,Ousmane Dembélé,1,4,2025
+Francesco Calzona,Erling Haaland,5,4,2023
+Francesco Calzona,Kevin De Bruyne,3,4,2023
+Francesco Calzona,Bernardo Silva,1,4,2023
+Francesco Calzona,Vinícius Jr,5,4,2024
+Francesco Calzona,Rodri,3,4,2024
+Francesco Calzona,Erling Haaland,1,4,2024
+Michal Zeman,Ousmane Dembélé,5,4,2025
+Michal Zeman,Nuno Mendes,3,4,2025
+Michal Zeman,Harry Kane,1,4,2025
+Michal Zeman,Kylian Mbappé,5,4,2023
+Michal Zeman,Erling Haaland,3,4,2023
+Michal Zeman,Lionel Messi,1,4,2023
+Michal Zeman,Vinícius Jr,5,4,2024
+Michal Zeman,Rodri,3,4,2024
+Michal Zeman,Toni Kroos,1,4,2024
+Martin Felix Ndtoungou Mpile,Lamine Yamal,5,4,2025
+Martin Felix Ndtoungou Mpile,Ousmane Dembélé,3,4,2025
+Martin Felix Ndtoungou Mpile,Harry Kane,1,4,2025
+Martin Felix Ndtoungou Mpile,Vinícius Jr,5,4,2024
+Martin Felix Ndtoungou Mpile,Erling Haaland,3,4,2024
+Martin Felix Ndtoungou Mpile,Jude Bellingham,1,4,2024
+Angu Lesley Ngwa Akonwi,Ousmane Dembélé,5,4,2025
+Angu Lesley Ngwa Akonwi,Achraf Hakimi,3,4,2025
+Angu Lesley Ngwa Akonwi,Kylian Mbappé,1,4,2025
+Angu Lesley Ngwa Akonwi,Rodri,5,4,2024
+Angu Lesley Ngwa Akonwi,Erling Haaland,3,4,2024
+Angu Lesley Ngwa Akonwi,Vinícius Jr,1,4,2024
+Vincent Aboubakar,Erling Haaland,5,4,2023
+Vincent Aboubakar,Kylian Mbappé,3,4,2023
+Vincent Aboubakar,Lionel Messi,1,4,2023
+Vincent Aboubakar,Vinícius Jr,5,4,2024
+Vincent Aboubakar,Dani Carvajal,3,4,2024
+Vincent Aboubakar,Kylian Mbappé,1,4,2024
+Rigobert Song Bahanag,Lionel Messi,5,4,2023
+Rigobert Song Bahanag,Kylian Mbappé,3,4,2023
+Rigobert Song Bahanag,Victor Osimhen,1,4,2023
+Anastasios Bakasetas,Ousmane Dembélé,5,4,2025
+Anastasios Bakasetas,Lamine Yamal,3,4,2025
+Anastasios Bakasetas,Vitinha,1,4,2025
+Anastasios Bakasetas,Lionel Messi,5,4,2023
+Anastasios Bakasetas,Erling Haaland,3,4,2023
+Anastasios Bakasetas,Kylian Mbappé,1,4,2023
+Anastasios Bakasetas,Rodri,5,4,2024
+Anastasios Bakasetas,Vinícius Jr,3,4,2024
+Anastasios Bakasetas,Jude Bellingham,1,4,2024
+Ivan Jovanovic,Lamine Yamal,5,4,2025
+Ivan Jovanovic,Kylian Mbappé,3,4,2025
+Ivan Jovanovic,Harry Kane,1,4,2025
+Ivan Jovanovic,Rodri,5,4,2024
+Ivan Jovanovic,Vinícius Jr,3,4,2024
+Ivan Jovanovic,Jude Bellingham,1,4,2024
+Nikolaos Kotsis,Ousmane Dembélé,5,4,2025
+Nikolaos Kotsis,Lamine Yamal,3,4,2025
+Nikolaos Kotsis,Mohamed Salah,1,4,2025
+Nikolaos Kotsis,Lionel Messi,5,4,2023
+Nikolaos Kotsis,Erling Haaland,3,4,2023
+Nikolaos Kotsis,Kylian Mbappé,1,4,2023
+Nikolaos Kotsis,Rodri,5,4,2024
+Nikolaos Kotsis,Vinícius Jr,3,4,2024
+Nikolaos Kotsis,Lamine Yamal,1,4,2024
+Gustavo Poyet,Lionel Messi,5,4,2023
+Gustavo Poyet,Erling Haaland,3,4,2023
+Gustavo Poyet,Kylian Mbappé,1,4,2023
+Ferjani Sassi,Achraf Hakimi,5,4,2025
+Ferjani Sassi,Kylian Mbappé,3,4,2025
+Ferjani Sassi,Ousmane Dembélé,1,4,2025
+Trabelsi Sami,Achraf Hakimi,5,4,2025
+Trabelsi Sami,Ousmane Dembélé,3,4,2025
+Trabelsi Sami,Mohamed Salah,1,4,2025
+Tarek Ghdiri,Ousmane Dembélé,5,4,2025
+Tarek Ghdiri,Achraf Hakimi,3,4,2025
+Tarek Ghdiri,Pedri,1,4,2025
+Tarek Ghdiri,Erling Haaland,5,4,2023
+Tarek Ghdiri,Kevin De Bruyne,3,4,2023
+Tarek Ghdiri,Victor Osimhen,1,4,2023
+Tarek Ghdiri,Dani Carvajal,5,4,2024
+Tarek Ghdiri,Rodri,3,4,2024
+Tarek Ghdiri,Vinícius Jr,1,4,2024
+Ali Abdi,Lionel Messi,5,4,2024
+Ali Abdi,Vinícius Jr,3,4,2024
+Ali Abdi,Lamine Yamal,1,4,2024
+Yaakoubi Kays,Vinícius Jr,5,4,2024
+Yaakoubi Kays,Jude Bellingham,3,4,2024
+Yaakoubi Kays,Dani Carvajal,1,4,2024
+Youssef Msakni,Lionel Messi,5,4,2023
+Youssef Msakni,Kylian Mbappé,3,4,2023
+Youssef Msakni,Erling Haaland,1,4,2023
+Jalel Kadri,Kevin De Bruyne,5,4,2023
+Jalel Kadri,Kylian Mbappé,3,4,2023
+Jalel Kadri,Victor Osimhen,1,4,2023
+Chancel Mbemba,Ousmane Dembélé,5,4,2025
+Chancel Mbemba,Achraf Hakimi,3,4,2025
+Chancel Mbemba,Vitinha,1,4,2025
+Chancel Mbemba,Lionel Messi,5,4,2023
+Chancel Mbemba,Kylian Mbappé,3,4,2023
+Chancel Mbemba,Kevin De Bruyne,1,4,2023
+Chancel Mbemba,Kylian Mbappé,5,4,2024
+Chancel Mbemba,Vinícius Jr,3,4,2024
+Chancel Mbemba,Lamine Yamal,1,4,2024
+Sébastien Desabre,Ousmane Dembélé,5,4,2025
+Sébastien Desabre,Achraf Hakimi,3,4,2025
+Sébastien Desabre,Mohamed Salah,1,4,2025
+Sébastien Desabre,Erling Haaland,5,4,2023
+Sébastien Desabre,Kylian Mbappé,3,4,2023
+Sébastien Desabre,Victor Osimhen,1,4,2023
+Sébastien Desabre,Vinícius Jr,5,4,2024
+Sébastien Desabre,Rodri,3,4,2024
+Sébastien Desabre,Erling Haaland,1,4,2024
+Michel Tobo,Raphinha,5,4,2025
+Michel Tobo,Lamine Yamal,3,4,2025
+Michel Tobo,Pedri,1,4,2025
+Michel Tobo,Lionel Messi,5,4,2023
+Michel Tobo,Erling Haaland,3,4,2023
+Michel Tobo,İlkay Gündoğan,1,4,2023
+Michel Tobo,Jude Bellingham,5,4,2024
+Michel Tobo,Lamine Yamal,3,4,2024
+Michel Tobo,Dani Carvajal,1,4,2024
+Ianis Hagi,Lamine Yamal,5,4,2025
+Ianis Hagi,Raphinha,3,4,2025
+Ianis Hagi,Ousmane Dembélé,1,4,2025
+Mircea Lucescu,Harry Kane,5,4,2025
+Mircea Lucescu,Raphinha,3,4,2025
+Mircea Lucescu,Kylian Mbappé,1,4,2025
+Mircea Lucescu,Vinícius Jr,5,4,2024
+Mircea Lucescu,Toni Kroos,3,4,2024
+Mircea Lucescu,Erling Haaland,1,4,2024
+Theodor Jumatate,Ousmane Dembélé,5,4,2025
+Theodor Jumatate,Lamine Yamal,3,4,2025
+Theodor Jumatate,Mohamed Salah,1,4,2025
+Theodor Jumatate,Erling Haaland,5,4,2023
+Theodor Jumatate,Kevin De Bruyne,3,4,2023
+Theodor Jumatate,Khvicha Kvaratskhelia,1,4,2023
+Theodor Jumatate,Vinícius Jr,5,4,2024
+Theodor Jumatate,Rodri,3,4,2024
+Theodor Jumatate,Jude Bellingham,1,4,2024
+Nicolae Stanciu,Lionel Messi,5,4,2023
+Nicolae Stanciu,Kylian Mbappé,3,4,2023
+Nicolae Stanciu,Kevin De Bruyne,1,4,2023
+Nicolae Stanciu,Toni Kroos,5,4,2024
+Nicolae Stanciu,Dani Carvajal,3,4,2024
+Nicolae Stanciu,Rodri,1,4,2024
+Edward Marius Iordanescu,Erling Haaland,5,4,2023
+Edward Marius Iordanescu,Kylian Mbappé,3,4,2023
+Edward Marius Iordanescu,Victor Osimhen,1,4,2023
+Salomón Rondón,Ousmane Dembélé,5,4,2025
+Salomón Rondón,Pedri,3,4,2025
+Salomón Rondón,Harry Kane,1,4,2025
+Oswaldo Vizcarrondo,Ousmane Dembélé,5,4,2025
+Oswaldo Vizcarrondo,Vitinha,3,4,2025
+Oswaldo Vizcarrondo,Lamine Yamal,1,4,2025
+Humberto Perozo Suárez,Ousmane Dembélé,5,4,2025
+Humberto Perozo Suárez,Raphinha,3,4,2025
+Humberto Perozo Suárez,Lamine Yamal,1,4,2025
+Humberto Perozo Suárez,Erling Haaland,5,4,2023
+Humberto Perozo Suárez,Rodri,3,4,2023
+Humberto Perozo Suárez,Kevin De Bruyne,1,4,2023
+Humberto Perozo Suárez,Vinícius Jr,5,4,2024
+Humberto Perozo Suárez,Lamine Yamal,3,4,2024
+Humberto Perozo Suárez,Rodri,1,4,2024
+Tomas Rincon,Lionel Messi,5,4,2023
+Tomas Rincon,Kylian Mbappé,3,4,2023
+Tomas Rincon,Erling Haaland,1,4,2023
+Tomas Rincon,Vinícius Jr,5,4,2024
+Tomas Rincon,Rodri,3,4,2024
+Tomas Rincon,Toni Kroos,1,4,2024
+Fernando Batista,Lionel Messi,5,4,2023
+Fernando Batista,Rodri,3,4,2023
+Fernando Batista,Julián Álvarez,1,4,2023
+Fernando Batista,Rodri,5,4,2024
+Fernando Batista,Vinícius Jr,3,4,2024
+Fernando Batista,Lionel Messi,1,4,2024
