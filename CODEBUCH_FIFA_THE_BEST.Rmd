@@ -1,0 +1,82 @@
+---
+title: "Codebuch_FIFA_The_Best"
+author: "Nils Wagner, nw102@hdm-stuttgart.de | Sandro Pascucci, sp128@hdm-stuttgart.de"
+date: "2026-05-18"
+output: pdf_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Datensatz FIFA THE BEST
+
+Codebuch Stand 2026-05, erstellt von Swaran Sandhu
+([sandhu\@hdm-stuttgart.de](mailto:sandhu@hdm-stuttgart.de){.email})
+
+## Inhalt
+
+-   Edges.csv (Edgelist)
+-   Nodes.csv (Nodelist)
+-   Codebuch.md (Codierung der Datensätze)
+
+## Datenerhebung
+
+Die Datengrundlage basiert auf öffentlich zugänglichen Informationen der
+**offiziellen FIFA-Website** zu Abstimmungsdaten der „The Best" Awards
+aus den Jahren 2023, 2024 und 2025.
+
+Jede stimmberechtigte Person (Nationalmannschaftskapitäne,
+Nationaltrainer und Journalisten) vergibt drei Stimmen, die nach einem
+festen Punktesystem gewichtet sind (5 Punkte für Platz 1, 3 Punkte für
+Platz 2 und 1 Punkt für Platz 3). Diese Informationen wurden aus den
+offiziellen Dokumenten manuell extrahiert und in eine strukturierte
+Datenbasis überführt.
+
+Neben den Abstimmungsdaten würden zusätzliche Attribute für die Akteure
+erhoben, insbesondere die Vereinszugehörigkeit der Spieler. Diese
+Informationen sind in den FIFA-Dokumenten nicht enthalten und wurden
+daher ergänzend über die Plattform **„transfermarkt.de"** recherchiert.
+Die entsprechenden Daten wurden anschließend manuell in die Nodelist
+integriert, um zentrale Variablen wie Vereinszugehörigkeit für die
+spätere Analyse verfügbar zu machen.
+
+Die **Edgelist** bildet die Stimmabgaben zwischen Wählenden und
+gewählten Spielern ab, während die **Nodelist** alle relevanten Akteure
+und deren Eigenschaften enthält.
+
+# EDGE-Attribute
+
+**from** definiert den wählenden Nationalkapitän, Nationaltrainer oder
+nationalen Journalisten
+
+**to** definiert gewählte Spieler
+
+**vote** definiert die Stärke der Stimme. Es können die Werte 5, 3 oder
+1 vergeben werden. Jeder Wähler kann je einem wählbaren Spieler 5, 3
+oder 1 Punkt(e) bei der Stimmabgabe vergeben.
+
+**relationship** definiert die Art der Beziehung: 1= gleiche
+Nationalität; 2= gleicher Verein; 3 = gleiche Nationalität und Verein 4=
+keine besondere Verbindung
+
+**year** definiert das Jahr der FIFA-Wahl.
+
+# NODE-Attribute
+
+**id** definiert eindeutig die Knoten-Namen der Nationalkapitäne,
+Nationaltrainer, nationalen Journalisten und gewählten Spieler.
+
+**role** gibt die Rolle der Personen an: 1= Kapitän, 2= Trainer, 3=
+Journalist 4= Gewählter Spieler 5= Gewählter Spieler, der auch Kapitän
+ist.
+
+**national team** gibt das Team an, in dem ein Spieler spielt bzw. das
+ein Nationaltrainer trainiert.
+
+**club(club_2025, club_2024, club_2023)** gibt an, für welchen Verein
+eine Person spielt. Trifft nur auf role 1,4,5, also die Spieler zu.
+
+**nationality** definiert das Herkunftsland einer Person.
+
+**continent** definiert den Herkunftskontinent, der sich anhand der
+Nationalität einer Person festellen lässt.
